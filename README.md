@@ -5,6 +5,7 @@ This project implements neural networks from scratch using only NumPy. It includ
 The project is designed for educational use, helping you understand the internals of deep learning systems through hands-on Python code.
 
 This project also presents user friendly GUI - for easy external use.
+
 ---
 
 ## Project Structure
